@@ -16,8 +16,6 @@ A comprehensive Power BI dashboard designed to provide a 360-degree view of hosp
 - **DAX:** Advanced measures for dynamic KPIs and conditional formatting.
 - **UI/UX:** Glassmorphism design, custom icons, and interactive slicers.
 
-## 📸 Screenshots
-![Main Page](ScreenShots/Screenshot 2026-04-22 025251.png)
 
 ## 📂 How to View
 1. Download the `.pbix` file from this repository.
