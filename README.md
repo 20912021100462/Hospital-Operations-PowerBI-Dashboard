@@ -17,8 +17,7 @@ A comprehensive Power BI dashboard designed to provide a 360-degree view of hosp
 - **UI/UX:** Glassmorphism design, custom icons, and interactive slicers.
 
 ## 📸 Screenshots
-![Main Page](Screenshots/Main_Page.png)
-*(Note: Replace these paths with your actual image files once uploaded)*
+![Main Page](ScreenShots/Screenshot 2026-04-22 025251.png)
 
 ## 📂 How to View
 1. Download the `.pbix` file from this repository.
